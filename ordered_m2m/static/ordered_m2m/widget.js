@@ -200,5 +200,5 @@
     setTimeout(init, 1000);
   });
 
-})(jQuery);
+})(django.jQuery);
 
