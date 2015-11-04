@@ -10,7 +10,7 @@ Full documentation at http://github.com/markfinger/django-ordered-m2m
 
 setup(
     name = 'django-ordered-m2m',
-    version = '1.0.3',
+    version = '1.0.4-alpha1',
     packages = find_packages(),
     package_data={
         'ordered_m2m': [
